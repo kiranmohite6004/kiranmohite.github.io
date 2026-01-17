@@ -1,26 +1,33 @@
+# 🚀 Projects
+
 ## 📊 ETL Pipeline to Snowflake Data Warehouse
 
-**Description:** A batch ETL pipeline using Python and SQL to load and transform raw sales data into a Snowflake data warehouse with data quality validations.
+**Description:**  
+A batch ETL pipeline built using Python and SQL to transform raw sales data into an analytics-ready Snowflake data warehouse with data quality validations.
 
-**Tech:** Python, SQL, Snowflake, Pandas
+**Tech Stack:** Python, SQL, Snowflake, Pandas
 
 **Highlights:**
-- Batch data ingestion and transformation
-- STAR-schema based warehouse design
-- Data quality checks and analytics queries
+- Batch data ingestion and transformation using Python
+- STAR-schema based data warehouse modeling
+- Data quality checks for integrity and consistency
+- Analytics-ready SQL queries for reporting
 
-🔗 [GitHub Repository](https://github.com/kiranmohite6004/etl-snowflake-data-warehouse)
+🔗 GitHub: https://github.com/kiranmohite6004/etl-snowflake-data-warehouse
 
+---
 
 ## 🧾 Personal Finance Tracker (Python)
 
-**Description:** A Python-based personal finance tracking tool to record and analyze incomes and expenses, helping users visualize their spending patterns.
+**Description:**  
+A Python-based personal finance tracking tool to record, categorize, and analyze income and expenses using a local database.
 
-**Tech:** Python, SQLite (local DB)
+**Tech Stack:** Python, SQLite
 
 **Highlights:**
-- Tracks financial transactions in a local database
-- Categorizes and analyzes expenses and income
-- Simple Python CLI interface using `pftracker.py`
+- Tracks income and expense transactions
+- Stores financial data in a local SQLite database
+- Categorizes expenses for basic analysis
+- Lightweight, automation-focused Python implementation
 
-🔗 [GitHub Repo](https://github.com/kiranmohite6004/PersonalFinance)
+🔗 GitHub: https://github.com/kiranmohite6004/PersonalFinance
